@@ -9,7 +9,7 @@
 ## CLONE REPOSITORY
 
 ```bash
-$ git clone <remote_repo> (ex: git clone https://github.com/RioAdistya/photoAlbum.git)
+$ git clone <remote_repo> (ex: https://github.com/RioAdistya/projectAkhir2-testing-jest-supertest.git)
 ```
 
 ## HOW TO SETUP
